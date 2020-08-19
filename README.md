@@ -1,2 +1,2 @@
 # PongLuna
-Esta en fase de creacion 
+Fase beta en mejora continua
